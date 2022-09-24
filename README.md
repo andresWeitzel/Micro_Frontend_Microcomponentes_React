@@ -1,103 +1,70 @@
-# App_MicroFrontEnd_MicroElectr_React (En Proceso de Desarrollo).
+# Getting Started with Create React App
 
-* Aplicación Web Micro FrontEnd MicroElectrónica implementando React, Html5, Scss, Highcharts, Bootstrap, Spring Boot, Spring MVC, Spring Data JPA, SpringFox, Swagger UI, Maven, Lombok, Postman, Log4j, Git, SQLDeveloper, Oracle XE 21c y Otras Tecnologías.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-* Repositorio ApiRest_ElectroThingsV1 : https://github.com/andresWeitzel/ApiRest_MicroFront_Microelectronica
-* Repositorio db_ElectroThings_MongoDB : https://github.com/andresWeitzel/db_microElectronica_OracleXE
+In the project directory, you can run:
 
+### `npm start`
 
-</br>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Documentación Gráfica Sucinta (En Proceso de Desarrollo).
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-</br>
+### `npm test`
 
-### Listado de Productos
-![Index app]()
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-</br>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-| Área | Stack |
-| ------------- | ------------- |
-| Front End | HTML5, SCSS, Bootstrap5, React, Axios, Highchart, Otros | 
-| Back End | Spring Boot, Spring MVC, Lombok, Maven, Swagger UI, SpringFox, Otros |
-| Database | SQLDeveloper, Oracle XE 21c, Git, CMD | 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<hr>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-</br>
+### `npm run eject`
 
-| Tecnologías FRONTEND | Versión | Finalidad
-| ------------- | ------------- | ------------- |
-| React |   18.2.0 | Librería js  | 
-| React-CLI | 0.3.1 | Herramienta de React para depurar, crear, publicar, etc Apps |
-| Angular Material | 13.3.9 | UI librería de componentes | 
-| axios | 0.27.2 |  Cliente HTTP Basado en Promesas para el navegador |
-| Bootstrap | 5.1  | FrameWork Web Diseño y Desarrollo de Apps |
-| Visual Studio Code | 1.51.1  | Entorno de Desarrollo |
-| Otros | - | - |
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-</br>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
-| Tecnologías BACKEND | Versión | Finalidad
-| ------------- | ------------- | ------------- |
-| Java |   12.0.2 | JDK |
-| Spring Tool Suite 4 | 4.9.0  | IDE |
-| Spring Boot |   2.6.4  | Framework |
-| Spring Boot Data JPA  | 2.6.3 | Mapeo de objetos y persistencia en la db |
-| Maven |  4.0.0 | Gestor de Proyectos |
-| PostMan | 9.4.1 | Test de Apis |
-| Lombok | 1.18.22 | Automatización de Código | 
-| SpringFox | 3.0.0 | Documentación de la Api | 
-| SpringSwagger UI | 3.0.0 | Documentación de la Api | 
-| Maven |  4.0.0 | Gestor de Proyectos |
-| GNU bash / Terminal | 4.4.23  | Bash / Terminal para el manejo e implementación de Git integrado al Spring Tool Suite |
-| Git | 2.29.1  | Control de Versiones |
-| Otros | - | - |
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-</br>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-| Tecnologías DATABASE | Versión | Finalidad
-| ------------- | ------------- | ------------- |
-| OracleXE21c | 21.0 | SGDB |
-| SqlDeveloper	|  22.2.1 |	Gestor para el SGDB Oracle |
-| CMD | 10 | Símbolo del Sistema para linea de comandos | 
-| Otros | - | - |
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-</br>
+### Making a Progressive Web App
 
-### Documentación Oficial
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-* Java-JDK 12 :       https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
-* Bootstrap:         https://getbootstrap.com/
-* React : https://reactjs.org/docs/getting-started.html
-* React CLI:      https://www.npmjs.com/package/react-cli
-* OracleXE21c :      https://www.oracle.com/database/technologies/appdev/xe.html
-* SQLDeveloper : https://www.oracle.com/database/sqldeveloper/
-* Maven Repository: https://mvnrepository.com/ 
-* PostMan:        https://www.postman.com/downloads/ 
-* Visual Studio Code:         https://code.visualstudio.com/download
-* Spring Tool Suite 4 : https://spring.io/tools 
-* Git:         https://git-scm.com/docs
+### Advanced Configuration
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-</br>
+### `npm run build` fails to minify
 
-### Documentación No Oficial Recomendada
-* En proceso de desarrollo
-
-
-</br>
-
-### Documentación Oficial/No Oficial Librerías Frontend
-* En proceso de desarrollo
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
