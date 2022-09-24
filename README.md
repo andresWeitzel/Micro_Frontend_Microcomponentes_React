@@ -13,8 +13,11 @@
 
 </br>
 
-### Listado de Productos
-![Index app]()
+### Listado de Productos Paginados
+![Index app](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(901).png)
+![Index app](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(902).png)
+![Index app](https://github.com/andresWeitzel/App_MicroFrontEnd_MicroElectr_React/blob/master/doc/Captura%20de%20pantalla%20(903).png)
+
 
 
 </br>
